@@ -1,8 +1,10 @@
 # raspi_clock
 
-curl -L https://ollama.com/download/ollama-linux-amd64.tgz -o ollama.tgz\\
+curl -L https://ollama.com/download/ollama-linux-amd64.tgz -o ollama.tgz
+\\
 
-tar -xzf ollama.tgz\\
+tar -xzf ollama.tgz
+\\
 
 ls -l ./bin/ollama
 chmod +x ./bin/ollama
